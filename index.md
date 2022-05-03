@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Projeto desensolvido durante a Jornada Dev da [EBAC](https://ebaconline.com.br/webinars/programacao-jornadadev-2022-04-25?utm_campaign=webinar_916_programacao-jornadadev-2022-04-25_email_reminder_triggered_10hours_2022-05&utm_source=email&utm_medium=email&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5ldG8udmllaXJhLmxlb25hcmRvQGdtYWlsLmNvbSIsInN1YiI6IjUzNTllNmU5LTdhODgtNDBhYy04M2E0LWVjNTI1MmU1NzA5OSIsImlhdCI6MTY1MTUyODg3NCwiZXhwIjoxNjU0MTIwODc0fQ.NNJ7kzqsbcyiSyUBRjq89bIySClbidP3kkX40ycBGj8&topic=0)
 
-You can use the [editor on GitHub](https://github.com/LeonardoVieiraNeto/jornada-dev.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_**Primeira aula**_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeonardoVieiraNeto/jornada-dev.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Em minha conta no Github que já existia. 
+2. Crie um repositório no Github, que irei usar nesta semana.
+3. Criei a estrutura do projeto e uma página index.html
+4. Crie um pull request enviando a página HTML de 'Hello World'
