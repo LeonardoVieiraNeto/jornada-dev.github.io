@@ -9,7 +9,10 @@ _**Dia 01 - Primeira aula**_
 
 _**Dia 02 - Segunda aula**_
 
-1. 
-2. 
-3.
-4.
+1.  Crie o layout de informações pessoais
+2. Crie o layout de Skills
+3. Crie o layout de introdução pessoal
+4. Crie um pull request e compartilhe o link junto a EBAC
+ 
+
+
